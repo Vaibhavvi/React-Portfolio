@@ -15,9 +15,9 @@ function Footer() {
           <div className="col-md-6">
             <h5>Follow Me</h5>
             <ul className="list-unstyled">
-              <li><a href="https://github.com/yourusername" className="text-white">GitHub</a></li>
-              <li><a href="https://linkedin.com/in/yourusername" className="text-white">LinkedIn</a></li>
-              <li><a href="https://twitter.com/yourusername" className="text-white">Twitter</a></li>
+              <li><a href="https://github.com/Vaibhavvi" className="text-white">GitHub</a></li>
+              <li><a href="https://www.linkedin.com/in/vaibhav-dubey-8199292b4/" className="text-white">LinkedIn</a></li>
+              <li><a href="https://www.instagram.com/vaibhav_dubey_111/" className="text-white">Instagram</a></li>
             </ul>
           </div>
         </div>
